@@ -10,3 +10,16 @@ C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\WformLab\WformLab\obj\Deb
 C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\WformLab\WformLab\obj\Debug\WformLab.pdb
 C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\WformLab\WformLab\obj\Debug\WformLab.Login.resources
 C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\WformLab\WformLab\obj\Debug\WformLab.Inventory.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\Csharpe_inventory_form\WformLab\bin\Debug\WformLab.exe.config
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\Csharpe_inventory_form\WformLab\bin\Debug\WformLab.exe
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\Csharpe_inventory_form\WformLab\bin\Debug\WformLab.pdb
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\Csharpe_inventory_form\WformLab\obj\Debug\WformLab.csproj.AssemblyReference.cache
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\Csharpe_inventory_form\WformLab\obj\Debug\WformLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\Csharpe_inventory_form\WformLab\obj\Debug\WformLab.Form1.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\Csharpe_inventory_form\WformLab\obj\Debug\WformLab.Inventory.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\Csharpe_inventory_form\WformLab\obj\Debug\WformLab.Login.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\Csharpe_inventory_form\WformLab\obj\Debug\WformLab.Properties.Resources.resources
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\Csharpe_inventory_form\WformLab\obj\Debug\WformLab.csproj.GenerateResource.cache
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\Csharpe_inventory_form\WformLab\obj\Debug\WformLab.csproj.CoreCompileInputs.cache
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\Csharpe_inventory_form\WformLab\obj\Debug\WformLab.exe
+C:\Users\Gedi G\Desktop\4th year\3rd term\c# class\Lab\Csharpe_inventory_form\WformLab\obj\Debug\WformLab.pdb
